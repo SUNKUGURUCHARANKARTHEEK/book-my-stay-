@@ -13,7 +13,7 @@ import java.util.*;
 class Reservation {
     private String guestName;
     private String roomType;
-
+// ho
     public Reservation(String guestName, String roomType) {
         this.guestName = guestName;
         this.roomType = roomType;
