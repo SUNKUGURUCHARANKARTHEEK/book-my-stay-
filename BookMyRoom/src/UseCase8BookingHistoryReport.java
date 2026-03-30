@@ -39,7 +39,7 @@ class BookingHistory {
     public void addReservation(Reservation r) {
         history.add(r);
     }
-
+//
     // Retrieve all bookings
     public List<Reservation> getAllReservations() {
         return history;
