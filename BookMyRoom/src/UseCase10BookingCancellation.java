@@ -35,7 +35,7 @@ class Reservation {
 // -------- INVENTORY --------
 class RoomInventory {
     private HashMap<String, Integer> inventory;
-
+//
     public RoomInventory() {
         inventory = new HashMap<>();
         inventory.put("Single Room", 1);
